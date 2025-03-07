@@ -1,3 +1,5 @@
+#IYKYK: If You Know, You Know#
+
 **IYKYK** is a decentralized autonomous organization (DAO) that believes in the transformative power of the arts. The phrase “If You Know, You Know” hints at the shared vision and collective energy that drive our mission. Our community of artists, supporters, and impact-focused individuals collaborates to:
 
 1. **Produce High-Quality Arts Events** – Festivals, fashion shows, exhibitions, and performances that captivate and inspire.
