@@ -1,18 +1,18 @@
-📄 Gitcoin Grant Application Draft (GoodDollar x IYKYK)
+# 📄 Gitcoin Grant Application Draft (GoodDollar x IYKYK)
 
-✅ Payout Wallet
+## ✅ Payout Wallet
 
 Gnosis Safe: Yes
 
 Wallet Address: eth:0x043B7211F730EFB1b94B30A4D421D739e21
 
-✅ Project Description
+## ✅ Project Description
 
 IYKYK DAO is a culture-first public goods collective building an onchain memecoin ecosystem to support public goods & regenerative finance. Our launch includes a Juicebox-powered token ($IYKYK) and a phased liquidity strategy that allocates ETH and governance to mission-aligned ecosystems like GoodDollar.
 
 Through this grant, we’ll strengthen the utility of G$ by seeding G$/ETH liquidity, contributing to the G$ treasury, and aligning governance incentives. Our goal is to make UBI culture viral, fundable, and creatively valuable.
 
-✅ Technical Implementation
+## ✅ Technical Implementation
 
 We’ll launch the $IYKYK token & community NFT series via Juicebox. 5–10% of raised ETH will be routed to:
 
@@ -22,7 +22,7 @@ Direct G$ treasury contributions
 
 Funds will be held and managed via a Gnosis Safe. We’ll implement governance boosts for LP stakers in a later phase and track participation via Guild.xyz + Snapshot.
 
-✅ Team Capability
+## ✅ Team Capability
 
 Our team consists of artists, memers, and DAO-native contributors with experience in:
 
@@ -33,9 +33,9 @@ Campaigns on Farcaster, Twitter, Instagram, Substack, Etc
 DeFi onboarding + creative bounties
 We’re working closely with the Base ecosystem and aligning with Optimism and Celo through a phased roadmap.
 
-✅ Roadmap & Milestones
+## ✅ Roadmap & Milestones
 
-Phase 1 (May - July 2025): Foundation & Community Launch
+*Phase 1 (May - July 2025):* Foundation & Community Launch
 
 Launch a community NFT series via Juicebox to kick off IYKYK DAO's funding and onboarding.
 
@@ -47,7 +47,7 @@ Begin onboarding campaigns via Discord, Farcaster, and Guild.xyz — with roles 
 
 Publish our public goods mission through the first issue of the IYKYK digital magazine and seed its distribution.
 
-Phase 2 (July - Sept 2025): Liquidity, Governance & Collaboration
+*Phase 2 (July - Sept 2025):* Liquidity, Governance & Collaboration
 
 Explore and deploy G$ liquidity mechanisms, including:
 
@@ -63,7 +63,7 @@ Roll out governance booster features: grant proposal power or voting multipliers
 
 Begin outreach and co-creation with aligned NFT brands, ReFi collectives, and local publication partners.
 
-We’ll attract users by:
+## We’ll attract users by:
 
 Launching Guild.xyz quests gated by G$ holdings
 
@@ -79,7 +79,7 @@ Distribution of our IYKYK digital/print magazine, expanding to the top 5 US citi
 
 All participation will be rewarded with tokens, roles, or bounties.
 
-✅ Funding Allocation (Grant Usage)
+## ✅ Funding Allocation (Grant Usage)
 
 To maximize the impact of the GoodDollar grant, we will strategically deploy the received G$ to deepen liquidity, raise awareness, and support onboarding across both ecosystems:
 
@@ -91,7 +91,7 @@ To maximize the impact of the GoodDollar grant, we will strategically deploy the
 
 10% — Operations & Campaign ToolsCovers setup and support infrastructure such as DAO tools, integrations, creative production, and magazine placement related to the campaign.
 
-✅ Ecosystem Contribution
+## ✅ Ecosystem Contribution
 
 Contribute meaningful liquidity to the G$ economy through LP seeding and experimental pairings
 
@@ -103,13 +103,13 @@ Enhance the visibility of G$ among creator communities and Web3-native cultural 
 
 Extend GoodDollar’s reach into both physical and digital spaces via the IYKYK magazine, distributed in top US cities and onchain.
 
-✅ Ethical Compliance
+## ✅ Ethical Compliance
 
 We affirm our full alignment with the values of the GoodDollar protocol and Gitcoin's eligibility criteria
 
 We are committed to transparency, non-extractive economics, and open governance models
 
-✅ Additional Info
+## ✅ Additional Info
 
 This grant represents a unique convergence of cultural storytelling, regenerative incentives, and grassroots participation
 
