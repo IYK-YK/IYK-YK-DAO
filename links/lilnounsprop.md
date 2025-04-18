@@ -4,7 +4,7 @@
 ### 🧠 Concept Overview 
 "Slices & Scavenger Hunt"
 
-A GPS + IYK sticker-based scavenger hunt & CCO Art Cometition Global Pizza Day , May 22nd 2025, to promote the Lil Nouns iconic characters & governance-driven community.
+A GPS + IYK sticker-based scavenger hunt & CCO Art Competition Global Pizza Day , May 22nd 2025, to promote the Lil Nouns iconic characters & governance-driven community.
 A growing number of business owners and arts collectives in Denver are actively searching for opportunities to explore crypto applications , from governance , to point of sale. We hope this event can serve as a jumping off point for the rest of 2025 during which we aim to bring local organizational sponsors, and web3 communities together in Colorado for the first time. 
 Each stop will feature a POAP, a slice of culture, and a touch of web3.
 
