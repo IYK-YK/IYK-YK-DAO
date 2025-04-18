@@ -71,6 +71,11 @@ Nouns, Lil Nouns, and the magic of web3.
 
 ## 🏆 Prize Structure
 
+Another bit of inspiration from gramajo.eth is the use of  [burnr wallet](https://links.burner.pro/). This allows us to distribute 
+prize money in ETH, without the winner needing a wallet already to claim their winnings. For winners that do not receive a burnr wallet 
+will recieve a [paper burnr](https://github.com/austintgriffith/paper-wallet). This way all of our contestants will be inentivized learn, 
+rather then just earn! We already purchased 10 Burnr Wallets in Acid Orange for our top winners. 
+
 ### Scavenger Hunt Prizes:
 | Place              | Prize Details                                                             |
 |--------------------|---------------------------------------------------------------------------|
@@ -79,9 +84,6 @@ Nouns, Lil Nouns, and the magic of web3.
 | 3rd Place          | $50 + Nogs T                                                              |
 | 4th Place          | $25 + Nogs T                                                              |
 | Collect All POAPs  | Nogs T                                                                    |
-
-
-
 
 
 ### Social Post Prizes:
