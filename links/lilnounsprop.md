@@ -72,22 +72,33 @@ Nouns, Lil Nouns, and the magic of web3.
 ## 🏆 Prize Structure
 
 ### Scavenger Hunt Prizes:
-1st Place: $200 + 1 Lil Noun (requesting from treasury) + Nogs T + burnr wallet
-2nd Place: $100 + 1 Lil Noun (requesting from treasury) + Nogs T + burnr wallet
-3rd Place: $50 + Nogs T 
-4th Place: $25 + Nogs T 
-Collect All POAPs: Nogs T
+| Place              | Prize Details                                                             |
+|--------------------|---------------------------------------------------------------------------|
+| 1st Place          | $200 + 1 Lil Noun (requesting from treasury) + Nogs T + burnr wallet      |
+| 2nd Place          | $100 + 1 Lil Noun (requesting from treasury) + Nogs T + burnr wallet      |
+| 3rd Place          | $50 + Nogs T                                                              |
+| 4th Place          | $25 + Nogs T                                                              |
+| Collect All POAPs  | Nogs T                                                                    |
+
+
+
+
 
 ### Social Post Prizes:
-1st Place: $30 + Nogs T 
-2nd Place: $20 + Nogs T 
-3rd Place: $10 + Nogs T
+| Place      | Prize Details       |
+|------------|---------------------|
+| 1st Place  | $30 + Nogs T        |
+| 2nd Place  | $20 + Nogs T        |
+| 3rd Place  | $10 + Nogs T        |
+
 (Use hashtags: #PizzaPOAP #LilNouns)
 
 ### CCO Art Competition Prizes:
-1st Place: $200 + burnr wallet
-2nd Place: $100 + burnr wallet
-3rd Place: $50   
+| Place      | Prize Details         |
+|------------|-----------------------|
+| 1st Place  | $200 + burnr wallet   |
+| 2nd Place  | $100 + burnr wallet   |
+| 3rd Place  | $50                   |  
 
 
 
