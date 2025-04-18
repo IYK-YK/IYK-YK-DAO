@@ -16,13 +16,13 @@ Shout out to gramajo.eth for prop 293 which inspired this prop. I have been look
 in Denver Colorado and a scavenger hunt is just the right level of interesting. Should the prop pass we are confident in our ability to organize on a 
 short timetable and have already identified lead organizers and commisioned artists.
 
-| Name | Position | Org |
-| --- | --- |
-| Timothy L Carter | Executive Director | Xtatic Productions Ltd - [ Self ] |
-| Joshua Victorino | Executive Producer | Of Sound Mind Podcast |
-| Aaden Beall | Production Manager | Xtatic Production Limited |
-| Calib Perkins | Outreach Coordinator | Xtatic Productions Ltd |
-| Rebekah Amaro | Executive Producer | On The Rise Fashion Showcase |
+| Name              | Position            | Org                                           |
+|-------------------|---------------------|-----------------------------------------------|
+| Timothy L Carter  | Executive Director  | Xtatic Productions Ltd - [ Self ]             |
+| Joshua Victorino  | Executive Producer  | Of Sound Mind Podcast                         |
+| Aaden Beall       | Production Manager  | Xtatic Production Limited                     |
+| Calib Perkins     | Outreach Coordinator| Xtatic Productions Ltd                        |
+| Rebekah Amaro     | Executive Producer  | On The Rise Fashion Showcase                  |
 
 We are the core organizers of a budding artist collective based in Denver Colorado with a mission to elevate arts and public goods through the innovative
 and equitable application of technology! We work with local businesses, non-profits, and creatives to produce high quality culltural events that elevate, 
