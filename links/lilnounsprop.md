@@ -15,6 +15,7 @@ Art Competition - Submission Due Date May 19th.
 Shout out to gramajo.eth for prop 293 which inspired this prop. I have been looking for a good strategy to kick of an engaged lil nouns community  
 in Denver Colorado and a scavenger hunt is just the right level of interesting. Should the prop pass we are confident in our ability to organize on a 
 short timetable and have already identified lead organizers and commisioned artists.
+
 | Name | Position | Org |
 | --- | --- |
 | Timothy L Carter | Executive Director | Xtatic Productions Ltd - [ Self ] |
