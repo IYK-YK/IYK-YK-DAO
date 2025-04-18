@@ -33,10 +33,12 @@ Nouns, Lil Nouns, and the magic of web3.
 
 
 ### 🛠 Skills & Experience ###
-Program Manager, The Dmeter Project ( 2022 - 2024 ) Designed & Supervised DMRV pilots funded through open source grants in partnership with Celo & Filecoin. 
-Regional Director, Colorado Public Interest Group ( 2015 - 2020 ) Recruited trained and managed volunteers and staff to activate consensus building initiatives for public health and environmental policy. 
-Founder, Athena Protocol ( 2021 - 2023 ) my first attempt at launching a start up. I wore all of the hats. 
-Executive Director, Xtatic Productions ( 2024 - Present ) Chief of operations for a small media production studio and lead community organizer for a mediumish sized art collective. 
+| Title                          | Organization              | Years          | Description                                                                                                 |
+|-------------------------------|---------------------------|----------------|-------------------------------------------------------------------------------------------------------------|
+| Program Manager               | The Dmeter Project         | 2022 – 2024    | Designed & supervised DMRV pilots funded through open source grants in partnership with Celo & Filecoin.   |
+| Regional Director             | Colorado Public Interest Group | 2015 – 2020 | Recruited, trained, and managed volunteers and staff to activate consensus-building initiatives for public health and environmental policy. |
+| Founder                       | Athena Protocol            | 2021 – 2023    | My first attempt at launching a startup. I wore all of the hats.                                            |
+| Executive Director            | Xtatic Productions         | 2024 – Present | Chief of operations for a small media production studio and lead community organizer for a mediumish-sized art collective. |
 
 
 
