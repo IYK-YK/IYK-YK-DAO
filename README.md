@@ -56,7 +56,7 @@
     
     ## How to Get Involved
     
-    1.**Join The Community** [Join Discord](https://discord.gg/Q36Rhee8) Today and connect with our growing community of artists, collectors, producers and patrons of all kinds! Collaborate, find gigs, and even get funded!
+    1. **Join The Community** [Join Discord](https://discord.gg/Q36Rhee8) Today and connect with our growing community of artists, collectors, producers and patrons of all kinds! Collaborate, find gigs, and even get funded!
     2. **Become a Member:[Coming Soon]** Acquire the membership or governance tokens that unlock voting rights and participation in decision-making.
     3. **Support an Event:** Attend, volunteer, or sponsor festivals, shows, and exhibits. Every ticket purchased or donation made helps fund artists and public goods.
     4. **Apply for Grants or Residencies:** If you’re an artist dedicated to a public good–related cause, submit a proposal for financial support or a place in our residency program.
