@@ -1,4 +1,4 @@
-## IYKYK DAO Token Model (Revised for Advanced Readers)
+## IYKYK DAO Token Model
 
 ### 🔹 Overview
 
