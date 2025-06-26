@@ -1,68 +1,166 @@
-# IYKYK Token Minting and Distribution System
+## IYKYK DAO Token Model (Revised for Advanced Readers)
 
-## Overview
+### 🔹 Overview
 
-The IYKYK DAO introduces a comprehensive token minting and distribution system leveraging Juicebox DAO, designed to transparently manage fundraising, sponsorship opportunities, consumer engagement incentives, and tokenomics through the IYK token. Initially launching with a fixed mint rate, the system will transition into a bonding curve model for dynamic and market-responsive token pricing.
+The IYKYK DAO token system is designed to integrate decentralized governance, cultural funding, and meaningful community engagement. It operates through a two-layer architecture:
 
-## DAO Membership and Nouns NFT Governance
+1. **IYK Token (ERC-20, powered by Juicebox)** – This serves as the primary economic unit and governance mechanism. It enables users to participate in funding decisions, governance processes, and reward systems.
+2. **Membership NFTs (Nouns-style architecture)** – These NFTs function as governance primitives, granting holders high-level control over the DAO. This includes authority over treasury strategy, Juicebox settings, and protocol evolution.
 
-Membership within the IYKYK DAO is represented through ownership of specialized Nouns-style NFTs. These NFTs provide holders with exclusive governance rights and privileges within the DAO. Members actively participate in the governance process, deciding on critical issues such as treasury allocations, strategic initiatives, parameter adjustments, and overall DAO direction.
+---
 
-The Nouns NFTs enable a clear and decentralized governance structure, ensuring each member has an equitable voice and stake in the DAO’s success. NFT holders also gain eligibility for special reserved token claims, creating additional alignment between the DAO’s financial performance and member incentives.
+### 🔸 IYK Token: Core Functions and Economics
 
-## Initial Token Minting via Juicebox (Fixed Rate)
+#### 1. Minting Process
 
-Initially, the IYK tokens are minted through quarterly Juicebox fundraising cycles, each lasting approximately 90 days, using a fixed mint rate. Juicebox provides a transparent, decentralized mechanism for sponsors and community members to purchase tokens, ensuring clarity, ease of use, and predictable treasury growth.
+* IYK tokens are minted when contributors deposit ETH into the Juicebox contract.
+* The system launches with a fixed mint rate. Over time, this will evolve into a bonding curve model to reflect demand-based pricing.
+* Each funding cycle allocates a percentage of newly minted IYK as a reserved pool for NFT holders.
 
-## Transition to Bonding Curve
+#### 2. Earning and Distribution Mechanisms
 
-Following initial market validation and community education, the DAO will introduce a bonding curve mechanism for minting tokens. This bonding curve will dynamically adjust the token minting price based on supply and demand, creating market-responsive pricing:
+* IYK is distributed as a reward for consumer participation in:
 
-* **Linear Bonding Curve:** A transparent and simple formula will incrementally adjust token prices based on total circulating supply.
-* **Governance Adjustments:** DAO governance can periodically review and adjust bonding curve parameters (base price, slope) to maintain economic stability.
+  * Event sign-ins
+  * QR code activations
+  * App downloads
+  * Campaign missions and artist-led engagements
+* Artists and sponsors can create custom campaigns—such as scavenger hunts—to distribute IYK tokens in innovative ways.
 
-## Allocation of Raised Funds
+#### 3. Redemption and Deflation
 
-Funds raised from each Juicebox cycle are automatically split and allocated to three distinct purposes, promoting long-term sustainability, efficient operational management, and impactful community contributions:
+* IYK tokens can be redeemed for:
 
-1. **IYKYK DAO Treasury (50%)**
-   Allocated directly to the IYKYK DAO Treasury, supporting sponsorship and advertising opportunities redeemable exclusively with IYK tokens.
+  * Tickets to events
+  * Exclusive merchandise
+  * Travel and hospitality experiences
+* Redeemed tokens are permanently burned, helping maintain supply equilibrium and minimize inflation.
 
-2. **Operational Costs via Gnosis Safe (30%)**
-   Allocated to a Gnosis Safe multisig wallet for operational expenses, including overhead, administrative, technological infrastructure, staffing, marketing, and community activities.
+---
 
-3. **IYKYK Grant Treasury (20%)**
-   Allocated to the IYKYK Grant Treasury, funding community-driven projects, innovation, artists, developers, and ecosystem vitality.
+### 🔸 IYK Token in Governance
 
-## Token Utility
+#### 1. Voting Power and Staking
 
-The IYK token serves as the primary medium of exchange within the DAO ecosystem. Sponsors purchase tokens to redeem for advertising slots and engage with the community through promotional activities. Consumers earn tokens by participating in engagement activities such as booth sign-ins, QR scans, app downloads, or volunteer hours.
+* IYK token holders vote on:
 
-## Token Redemption and Burn
+  * Allocations from the IYKYK Grant Treasury
+  * Flows.wtf grant stream configurations
+  * Prioritization of funding categories and community missions
+* Voting rights are activated through staking, creating alignment and accountability among participants.
 
-Consumers redeem their earned tokens for tangible rewards, including event tickets, vacation stays, or merchandise. Tokens redeemed for rewards are permanently burnt, effectively managing token inflation and maintaining balanced token economics.
+#### 2. Burn-Driven Voting Cycles
 
-## Consumer Voting and Grant Treasury Governance
+* Certain grant votes, especially high-impact ones, require burning tokens to cast votes. This disincentivizes spam voting and encourages long-term participation.
 
-Consumers have the ability to save IYK tokens and utilize them for voting on the distribution of funds from the IYKYK Grant Treasury. Regular voting cycles allow consumers to participate in governance without token burning, empowering active involvement in community decision-making. Additionally, special grant cycles may be implemented periodically, incentivizing token burning to encourage active consumer participation and engagement while simultaneously helping manage token supply.
+#### 3. Identity Verification
 
-## Reserved Token Claims (NFT-Gated)
+* Sybil resistance is implemented through integrations with:
 
-Initially, 25% of newly minted IYK tokens are reserved each funding cycle for holders of the DAO's membership NFTs. NFT holders claim these reserved tokens quarterly, proportionally based on the DAO’s revenue and performance metrics, aligning incentives directly with DAO success.
+  * Proof of Humanity
+  * BrightID
+  * Gitcoin Passport
 
-## Governance and Parameter Management
+These identity systems help ensure equitable governance by limiting duplicate accounts.
 
-The DAO maintains comprehensive on-chain governance, enabling members to propose and vote on critical parameters such as minting ratios, ETH allocation splits, reserved token proportions, token burn rates, and bonding curve adjustments. This adaptive governance ensures agile and strategic responsiveness to market conditions.
+---
 
-## Transparency, Reporting, and Accountability
+### 🔸 Membership NFTs: Governance and Benefits
 
-The DAO commits to full transparency, providing detailed quarterly financial and performance reports. Real-time treasury balances, funding cycle updates, ETH allocations, and reserved token claims are accessible via public dashboards, fostering trust and accountability.
+#### 1. Launch Mechanism
 
-## Security and Risk Management
+* NFTs are distributed via a Nouns-style auction system.
+* Holders receive:
 
-Security is a top priority, with ongoing comprehensive security audits, active bug bounty programs, and emergency multisig mechanisms to ensure resilience against vulnerabilities or exploits.
+  * Unique generative artwork
+  * Full governance rights across DAO operations
 
-Disclaimer
+#### 2. Powers of Governance
 
-The information contained within this document is for informational purposes only and does not constitute financial, legal, or investment advice. Participants and token holders should perform their own due diligence and consult professional advisors prior to engaging with the IYKYK DAO or purchasing IYK tokens. Participation carries inherent risks, including but not limited to market volatility, technological vulnerabilities, and regulatory uncertainties. The DAO and associated entities disclaim any responsibility for financial losses or other consequences resulting from engagement with this system.
+NFT holders influence key aspects of the protocol, including:
+
+* Allocation parameters in Juicebox (e.g., mint rate, reserve ratio)
+* Flows-based funding stream creation and management
+* Grant approval structures
+* Treasury management strategies and emergency procedures
+
+#### 3. Reserved Token Allocation
+
+* A portion of each funding cycle’s minted tokens (initially 25%) is reserved for NFT holders.
+* These reserved tokens are claimable quarterly.
+* The exact quantity is dynamically adjusted according to DAO revenue and Juicebox cycle performance, ensuring alignment between participation and incentives.
+
+---
+
+### 🔸 Treasury Architecture and Capital Allocation
+
+Funds raised in each Juicebox cycle are automatically split:
+
+* **50% → IYKYK DAO Treasury**
+
+  * Supports operational and promotional activities tied to sponsorships and community programs
+* **30% → Operations (via Gnosis Safe multisig)**
+
+  * Funds staffing, marketing, tooling, and events
+* **20% → IYKYK Grant Treasury**
+
+  * Fuels the Flows.wtf system and community-initiated art/public goods projects
+
+---
+
+### 🔸 Token Supply Lifecycle
+
+* Token supply is demand-driven, expanding via ETH contributions.
+* Supply is curtailed through the burn mechanism when users redeem tokens.
+* DAO governance maintains the authority to adjust mint rates and reintroduce burned tokens if strategically necessary.
+
+---
+
+### 🔸 Roadmap for Token Development
+
+| Phase | Milestone          | Features                                           |
+| ----- | ------------------ | -------------------------------------------------- |
+| 1     | Launch             | Fixed-rate minting and NFT governance launch       |
+| 2     | Ecosystem Growth   | Seasonal quests and artist-led activations         |
+| 3     | Dynamic Minting    | Transition to a bonding curve via Juicebox upgrade |
+| 4     | Treasury Expansion | Formalization of treasury governance and audits    |
+
+---
+
+### 🔸 Artist and Sponsor Toolkits
+
+* Customizable toolkits empower creators and sponsors to:
+
+  * Launch QR-based engagement quests
+  * Propose mint events via the Nouns Buildr interface
+  * Include embedded IYK airdrops with their NFT activations
+
+---
+
+### 🔸 Transparency and Reporting
+
+The DAO maintains a quarterly reporting system including:
+
+* Token issuance and burn logs
+* Detailed breakdowns of treasury activity
+* Performance analysis of funded grant streams
+* Governance participation and proposals passed
+
+---
+
+### 🔸 Security and Risk Management
+
+* Juicebox parameter changes and fund distributions are gated by:
+
+  * On-chain governance with DAO oversight
+  * Multisig emergency systems
+  * Scheduled audits and bug bounty support
+
+These mechanisms ensure DAO resilience against manipulation and unauthorized access.
+
+---
+
+### 🔸 Disclaimer
+
+This document is intended for informational purposes only and does not constitute financial, legal, or investment advice. The IYKYK DAO and its associated systems are experimental and evolving. Participants should conduct their own research and consult with appropriate professionals before engaging with any aspect of the protocol.
 
