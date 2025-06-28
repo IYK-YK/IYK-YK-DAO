@@ -92,16 +92,16 @@ We're launching a vibrant, engaging resource that will introduce the city of Den
 * Rights to reuse produced content freely
 ---
 #### **9. Suggested Sponsorship Tiers**
-* **Single Feature Sponsor (\~1 ETH):**
+* **Single Feature Sponsor (\~.5-1 ETH):**
   * 2-page feature in print/digital
   * POAP co-branding at one hunt location
   * Social media promotion
-* **Event Sponsor (\~2–3 ETH):**
+* **Event Sponsor (\~1–2 ETH):**
   * 4-page feature with photos/interviews
   * POAP co-branding at multiple hunt locations
   * Prominent map placement in magazine and online
   * Art Challenge prize pool contribution (branding rights)
-* **Founding Partner (\~4–5 ETH+):**
+* **Founding Partner (\~3–5 ETH+):**
   * Cover or back-cover feature
   * Multiple sponsored articles in Issue 0 and Issue 1
   * Primary branding across scavenger hunt and Art Challenge materials
