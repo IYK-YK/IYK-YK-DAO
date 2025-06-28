@@ -1,7 +1,8 @@
 # **IYKYK Magazine Issue 0 Launch Proposal**
 ## **Citywide Scavenger Hunt & Art Challenge**
 ---
-### **Purpose**
+### **Purpose** 
+
 We're launching a vibrant, engaging resource that will introduce the city of Denver to the dynamic world of Nounish culture and public goods funding. Through a beautifully designed print and digital magazine, we'll provide a concentrated hub of public goods information that makes DAOs, governance, and funding accessible and inspiring. This launch issue will act as a gateway for newcomers to explore and join the Nounish ecosystem. The citywide scavenger hunt will drive real-world engagement with local venues, rewarding exploration with POAPs and showcasing sponsor DAOs. Meanwhile, the art competition will challenge local artists to create CC0 works inspired by sponsor DAOs, directly adding fresh, community-driven art to DAO collections and strengthening the public goods movement in Denver and beyond.
 ---
 ### **Event Components**
