@@ -66,7 +66,7 @@ We're launching a vibrant, engaging resource that will introduce the city of Den
 #### **6. Budget Categories**
 * Writing, editing, and design (print and digital)
 * Professional photography and interview production
-* Printing (500–1000 copies)
+* Printing (1000–2000 copies)
 * POAP design and minting fees
 * QR code creation and venue materials
 * Venue partnership stipends if needed
